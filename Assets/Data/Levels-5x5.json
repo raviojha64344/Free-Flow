@@ -1,0 +1,219 @@
+﻿{
+    "boardValue": 5,
+    "Levels": [
+        {
+            "levelNum": 1,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 6, 8 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 9, 16 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 15, 19 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 18, 24 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 2,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 5, 24 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 8, 11 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 10, 13 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 12, 16 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 3,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 0, 10 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 1, 12 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 7, 21 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 8, 20 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 4,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 2, 5 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 4, 10 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 6, 12 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 9, 15 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 5,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 1, 11 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 2, 24 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 6, 15 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 12, 16 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 6,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 5, 9 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 6, 12 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 11, 14 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 8, 16 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 7,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 0, 21 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 1, 18 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 4, 7 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 10, 20 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 8,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 1, 10 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 6, 15 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 9, 11 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 16, 18 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 9,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 0, 2 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 3, 15 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 4, 22 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 11, 18 ]
+                },
+                {
+                    "pairValue": 5,
+                    "pairs": [ 17, 20 ]
+                }
+            ]
+        },
+        {
+            "levelNum": 10,
+            "pairData": [
+                {
+                    "pairValue": 1,
+                    "pairs": [ 6, 13 ]
+                },
+                {
+                    "pairValue": 2,
+                    "pairs": [ 12, 23 ]
+                },
+                {
+                    "pairValue": 3,
+                    "pairs": [ 15, 22 ]
+                },
+                {
+                    "pairValue": 4,
+                    "pairs": [ 16, 18 ]
+                }
+            ]
+        }
+    ]
+}
