@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Element4
   m_EditorClassIdentifier: 
   _id: 4
-  _color: {r: 0.90707964, g: 0.9811321, b: 0.0046279924, a: 1}
+  _color: {r: 0.98039216, g: 0.59900147, b: 0.003921577, a: 1}
   _icon: {fileID: 0}
